@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ABatWordpress", "ABatWordpress\ABatWordpress.csproj", "{F75A0763-4D63-4D1E-B240-735040DB4270}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BInstalarWordpress", "BInstalarWordpress\BInstalarWordpress.csproj", "{B7B88BF2-7863-48D8-82BD-1E55B7F5957A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDefaultsWordpress", "CDefaultsWordpress\CDefaultsWordpress.csproj", "{40D7E066-B0B2-4EA5-B702-DCF8E7E7B1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNewPostWordpress", "DNewPostWordpress\DNewPostWordpress.csproj", "{4585E1F2-90CC-450C-B8C2-A89E5CB4DF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75A0763-4D63-4D1E-B240-735040DB4270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75A0763-4D63-4D1E-B240-735040DB4270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75A0763-4D63-4D1E-B240-735040DB4270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75A0763-4D63-4D1E-B240-735040DB4270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7B88BF2-7863-48D8-82BD-1E55B7F5957A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B88BF2-7863-48D8-82BD-1E55B7F5957A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B88BF2-7863-48D8-82BD-1E55B7F5957A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B88BF2-7863-48D8-82BD-1E55B7F5957A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D7E066-B0B2-4EA5-B702-DCF8E7E7B1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D7E066-B0B2-4EA5-B702-DCF8E7E7B1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D7E066-B0B2-4EA5-B702-DCF8E7E7B1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D7E066-B0B2-4EA5-B702-DCF8E7E7B1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4585E1F2-90CC-450C-B8C2-A89E5CB4DF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4585E1F2-90CC-450C-B8C2-A89E5CB4DF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4585E1F2-90CC-450C-B8C2-A89E5CB4DF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4585E1F2-90CC-450C-B8C2-A89E5CB4DF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7515B921-8EDE-4A5E-9828-F02382A1BF70}
+	EndGlobalSection
+EndGlobal
